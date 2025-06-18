@@ -7,8 +7,9 @@
  
 ## 🚀 About Me
  
-Hi there! I'm Raphael, a telecommunications professional transitioning into the tech world.  
-I'm currently focused on mastering Python with hands-on applications in:
+Hi! I'm Raphael, currently transitioning into the tech world and diving deep into the world of programming.
+I'm a student of Systems Analysis and Development at Gran Faculdades,
+and I'm focused on mastering Python through hands-on applications in:
  
 - 🔁 **Task and workflow automation**
 - 📊 **Data analysis and visualization**
@@ -67,7 +68,8 @@ I aim to follow best practices, write clean code, and build projects that solve 
 ---
 
 
-
+<details id="portuguese-section-toggle">
+  <summary> Ver Versão em Português (Clique para expandir)</summary>
 
 
 ---
@@ -81,8 +83,9 @@ I aim to follow best practices, write clean code, and build projects that solve 
 
 ## 🚀 Sobre Mim
 
-Olá! Sou o Raphael, um profissional de telecomunicações em transição para o mundo da tecnologia.  
-Atualmente, estou focado em dominar Python com aplicações práticas em:
+Olá! Sou o Raphael, atualmente em transição de carreira e mergulhando no universo da tecnologia.
+Sou estudante de Análise e Desenvolvimento de Sistemas pela Gran Faculdades 
+e estou focado em dominar Python por meio de aplicações práticas em:
 
 - 🔁 **Automação de tarefas e fluxos de trabalho**
 - 📊 **Análise e visualização de dados**
